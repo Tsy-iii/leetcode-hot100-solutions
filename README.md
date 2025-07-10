@@ -21,10 +21,10 @@
 ## 🗂 题目列表（部分示例）
 
 | # | 题目 | 难度 | 解法文件 |
-|---|------|------|----------|
+|---|------|------|----------| 160_intersection_of_two_linked_lists
 | 1 | Two Sum（两数之和） | 简单 | [001_two_sum.py](./001_two_sum.py) |
-| 2 | Add Two Numbers（两数相加） | 中等 | [002_add_two_numbers.py](./002_add_two_numbers.py) |
-| 3 | Longest Substring Without Repeating Characters（无重复字符的最长子串） | 中等 | [003_longest_substring.py](./003_longest_substring.py) |
+| 160 | Intersection of Two Linked Lists（相交链表） | 简单 | [160_intersection_of_two_linked_lists.py](./160_intersection_of_two_linked_listsm.py) |
+| 283 | Move Zeroes（移动零） | 简单 | [283_move_zeroes.py](./283_move_zeroes.py) |
 | ... | ... | ... | ... |
 
 📌 *后续题目将持续更新...*
