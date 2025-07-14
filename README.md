@@ -22,8 +22,8 @@
 
 | # | 题目 | 难度 | 解法文件 |
 |---|------|------|----------|
-| 1 | Two Sum（两数之和） | 简单 | [001_two_sum.py](./001_two_sum.py) |
-| 94 | Binary Tree Inorder Traversal（二叉树的中序遍历） | 中等 | [94_binary_tree_inorder_traversal.py](./94_binary_tree_inorder_traversal.py) |
+| 001 | Two Sum（两数之和） | 简单 | [001_two_sum.py](./001_two_sum.py) |
+| 094 | Binary Tree Inorder Traversal（二叉树的中序遍历） | 中等 | [94_binary_tree_inorder_traversal.py](./94_binary_tree_inorder_traversal.py) |
 | 160 | Intersection of Two Linked Lists（相交链表） | 简单 | [160_intersection_of_two_linked_lists.py](./160_intersection_of_two_linked_listsm.py) |
 | 283 | Move Zeroes（移动零） | 简单 | [283_move_zeroes.py](./283_move_zeroes.py) |
 | 461 | Hamming Distance（汉明距离） | 简单 | [461_hamming_distance.py](./461_hamming_distance.py) |
