@@ -2,9 +2,9 @@
 
 这个仓库是我在刷 LeetCode 热门 Top 100 题目过程中的刷题记录，包含了：
 - 每道题的 Python 解法
-- 题解思路
+- 题解思路(心情好会写点)
 - 时间复杂度和空间复杂度分析
-- 持续更新中
+- 持续更新中ing...
 
 希望通过这个项目巩固算法能力，同时做点知识产出。
 
@@ -23,6 +23,7 @@
 | # | 题目 | 难度 | 解法文件 |
 |---|------|------|----------|
 | 1 | Two Sum（两数之和） | 简单 | [001_two_sum.py](./001_two_sum.py) |
+| 94 | Binary Tree Inorder Traversal（二叉树的中序遍历） | 中等 | [94_binary_tree_inorder_traversal.py](./94_binary_tree_inorder_traversal.py) |
 | 160 | Intersection of Two Linked Lists（相交链表） | 简单 | [160_intersection_of_two_linked_lists.py](./160_intersection_of_two_linked_listsm.py) |
 | 283 | Move Zeroes（移动零） | 简单 | [283_move_zeroes.py](./283_move_zeroes.py) |
 | 461 | Hamming Distance（汉明距离） | 简单 | [461_hamming_distance.py](./461_hamming_distance.py) |
@@ -34,8 +35,8 @@
 
 ## 🧰 技术栈
 
-- 语言：Python 3
-- 编辑器：VS Code / PyCharm
+- 语言：Python
+- 编辑器：VS Code
 - 文件命名：`题号_英文题名.py`，方便索引与查找
 
 ---
