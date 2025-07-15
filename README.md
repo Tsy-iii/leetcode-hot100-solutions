@@ -23,6 +23,7 @@
 | # | 题目 | 难度 | 解法文件 |
 |---|------|------|----------|
 | 001 | Two Sum（两数之和） | 简单 | [001_two_sum.py](./001_two_sum.py) |
+| 020 | Valid Parentheses（有效的括号） | 简单 | [020_valid_parentheses.py](./020_valid_parentheses.py) |
 | 021 | Merge Two Sorted Lists（合并两个有序链表） | 简单 | [021_merge_two_sorted_lists.py](./021_merge_two_sorted_lists.py) |
 | 094 | Binary Tree Inorder Traversal（二叉树的中序遍历） | 简单 | [094_binary_tree_inorder_traversal.py](./094_binary_tree_inorder_traversal.py) |
 | 160 | Intersection of Two Linked Lists（相交链表） | 简单 | [160_intersection_of_two_linked_lists.py](./160_intersection_of_two_linked_lists.py) |
