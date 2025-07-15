@@ -1,6 +1,8 @@
 '''LeetCode 热题 100 —— 021.合并两个有序链表 - Easy'''
 
 # 递归法
+# 时间复杂度：O(n+m)，其中 n 和 m 分别为两个链表的长度。
+# 空间复杂度：O(n+m)，，其中 n 和 m 分别为两个链表的长度。
 # Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, val=0, next=None):
